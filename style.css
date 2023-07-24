@@ -2,6 +2,7 @@ body{
     background-color: hsl(219, 77%, 95%);
 }
 .container{
+    margin-top: 200px;
 margin-left: auto;
 margin-right: auto;
 text-align: center;
